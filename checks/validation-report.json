@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:57.954607+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "0eb3c41a99c87a5e9a825ba9b1f4d1ba4ea33206fe0c55cecdacb91eec580a0e",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e34a4286b0a915b98a45b4906e0b3a3790db7aa5fbbeda9e8a6312c9319befb3",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "c3b7d03d1c4312b619def124eb0bb2dafbe55d6842236260ae186021730fc06c",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "e144b164db2ffd31d6c2311d0f1574083b1002404ddec7cdbb353d627a94739d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "26f82863df1d3cc3b4ae566fdb523b1af49ecde77524e868885ff1486e9be205",
+      "errors": []
+    },
+    {
+      "path": "midi/z2301-warehouse-techno-lead-stabs-opening/z2301-warehouse-techno-lead-stabs-opening-combined.mid",
+      "bytes": 6010,
+      "sha256": "482660a2df980de375a45e1521940ca036b4f10cc634e4c029d7ad9133c4db91",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "7908180d23ad5fe8a9ce0d0f480190878c67030413490a5b865817fa3f01cc01",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "17a2abb7fde923777daf0613869cc146ba2d786601bd2215d565af2c05471c03",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "cb125ac3e2d8dc1a7a82b1654c07da35e0d4a8da34fe74a82cd1ac4947ade11f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "9d731427fd4f1215e1c23901c0f0efca1b88cd0c340e3432f310a12905d89093",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24cfae93e5e93fcfc61b8f7977c73780919a2d8eb8ff6a2dfc5e780d4fba9bcd",
+      "errors": []
+    },
+    {
+      "path": "midi/z2302-warehouse-techno-lead-stabs-variation/z2302-warehouse-techno-lead-stabs-variation-combined.mid",
+      "bytes": 6010,
+      "sha256": "36cc402b318d56ff7b44a9ae9f3d729272a73c2bebd16a5a2f3fc0f30b709697",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "e3f084b9b5e8b029408b9838573f829f2d1403cad9c87eb4c6215429e1abc491",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "adc6a1f61c9eddaf13462b73775b0ecd7cb15cffa56734daff48a754949a83d7",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "9bf97a4e5f9775b7ac4bac71fb2120cefc4654a778b007e3146189fbab4e4dfb",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "2e454a8ddd1bb543bcbcc72e9fd6c95ccc855e5994995f4e90b5aee8006caf50",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "882ccc1cf68325ef1958f6f3bf1ce5421b1c00109454117353b03f7501bc2ae0",
+      "errors": []
+    },
+    {
+      "path": "midi/z2303-warehouse-techno-lead-stabs-contrast/z2303-warehouse-techno-lead-stabs-contrast-combined.mid",
+      "bytes": 5978,
+      "sha256": "5b0a3f2abfe04bf88227dd8f2b61dd3ff237017174dd49099dc8df1470b695aa",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "21376feb026fffbbe4f7ce320405eef73bcd3abe191c2d8e41310ad57c3ef11d",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e9de187612b80089e4eec393399003507a3837ea9440b18617b34d548c799be2",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "5fb0d7b7eb4ef3d8bdcf533c841abc6482ec4ceb26a814160eebd3a8aa571465",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/sub_bass.mid",
+      "bytes": 813,
+      "sha256": "c021eca0d9254bea9a21e0c5b6146ac71bced1228991ac7c76d6bafd08567685",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "ec78fc593e00cf245fa40e663f39d7df35d8cc484749cac8c6b851e7c37f6e2f",
+      "errors": []
+    },
+    {
+      "path": "midi/z2304-warehouse-techno-lead-stabs-return/z2304-warehouse-techno-lead-stabs-return-combined.mid",
+      "bytes": 5978,
+      "sha256": "18daea234b756d4951fc3e98d99382ddd53fb4030420eef4f267f76d2604c023",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

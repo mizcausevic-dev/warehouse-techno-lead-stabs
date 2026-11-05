@@ -1,0 +1,26 @@
+{
+  "title": "Warehouse Techno Lead Stabs",
+  "study": "z2301",
+  "bpm": 132,
+  "source_audio": "preview/warehouse-techno-lead-stabs-simple-synth-preview.mp3",
+  "source_audio_sha256": "48d2c41b73f29cb6b211c76a84e10cf442bd86aaf63071522d64f869bf618763",
+  "source_midi": "midi/z2301-warehouse-techno-lead-stabs-opening/z2301-warehouse-techno-lead-stabs-opening-combined.mid",
+  "source_midi_sha256": "482660a2df980de375a45e1521940ca036b4f10cc634e4c029d7ad9133c4db91",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "8ccd7324e2b6d517868496a0c1c84e41d6b35ff105f0c5ef2c0e2c422a6c48aa",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "fe494c42cd3d6df80ac6ddfe343dd8852c7f55122457986a0da6af8e28e7558f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "e0f1a1f9c6dec4792bc65dfb45b4f99cb9b8623036b0d659285c53ee61c04b48",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

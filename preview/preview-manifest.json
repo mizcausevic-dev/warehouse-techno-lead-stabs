@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/warehouse-techno-lead-stabs-simple-synth-preview.mp3",
+  "preview_sha256": "48d2c41b73f29cb6b211c76a84e10cf442bd86aaf63071522d64f869bf618763",
+  "source_midi_path": "midi/z2301-warehouse-techno-lead-stabs-opening/z2301-warehouse-techno-lead-stabs-opening-combined.mid",
+  "source_midi_sha256": "482660a2df980de375a45e1521940ca036b4f10cc634e4c029d7ad9133c4db91",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z2301",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.129823,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
