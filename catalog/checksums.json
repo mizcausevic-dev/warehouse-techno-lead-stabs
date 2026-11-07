@@ -428,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147463,
-      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
+      "bytes": 148133,
+      "sha256": "79710b3451ef3b0442b689f3be96452aa4c760246e63d8e56d43819cf1ea69fb"
     },
     {
       "path": "tools/polish_release.py",
@@ -448,8 +448,8 @@
     },
     {
       "path": "tools/validate_release.py",
-      "bytes": 13763,
-      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+      "bytes": 14324,
+      "sha256": "65d466715c21dec914c126319843cd4e313390928257d3e0f5a7861485c2a4c3"
     }
   ]
 }
