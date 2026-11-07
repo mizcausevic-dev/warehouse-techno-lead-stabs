@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/warehouse-techno-lead-stabs-midi.zip",
-      "bytes": 31961,
-      "sha256": "761cd112b7d444890ce425b5e5b97371d21cf58901d0b5f4d998deed7e27bfb4"
+      "bytes": 32948,
+      "sha256": "3cbdc727060c8831e8402f877c23f2cd07b550b3a4bcaaef60f3d9c21cd7a75a"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10092,
-      "sha256": "71ea86ae531948af3c9446be0db9800b82988e64eb90eb2cb29be34354ae87c0"
+      "bytes": 10282,
+      "sha256": "2457384c4e31c33093c75dec674f9b31e5fd88fc71f43b768cfca1437febc6a4"
     },
     {
       "path": "midi/z2301-warehouse-techno-lead-stabs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "18daea234b756d4951fc3e98d99382ddd53fb4030420eef4f267f76d2604c023"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1191,
       "sha256": "5f98c3c8cf6f33dd6ab281a6ebf2aa0f722c9789989c3049db56357dd9c56a65"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4016,
-      "sha256": "2a96c6ab6d7b72969b7e25b83f73187394c0387cecd5f9ca91057e4f5d22b8c1"
+      "bytes": 4131,
+      "sha256": "5824568cf49ee96bb95f825d6ba576c6d5a17537734e85ccb10ec0b0807c57fc"
     },
     {
       "path": "social/instagram/caption.txt",
